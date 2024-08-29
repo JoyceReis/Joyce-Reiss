@@ -14,3 +14,5 @@ estou estudando na [Alura](https://www.alura.com.br/)
 - Trabalho
 
 - Costumo ouvir música e ver filmes nas horas vagas
+
+![](https://media.tenor.com/XKI89oaUATwAAAAM/love-hearts.gif)
